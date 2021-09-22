@@ -9,7 +9,7 @@ namespace projecto34TriangulosCaso02
     class Program
     {
         static void Main(string[] args)
-        {
+        {//caso numero 2
             int limite = 9;
             string espacio = "";
             for (int i = 1; i <= 9; i++)
